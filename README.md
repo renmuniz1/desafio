@@ -1,2 +1,2 @@
 # desafio
-Exemplo de aplicação com Spring-Mvc Angular e Bootsrap
+Exemplo de aplicação com Spring-Mvc Angular e Bootstrap
